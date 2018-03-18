@@ -1,0 +1,27 @@
+{
+  "name": "100ui",
+  "version": "1.0.0",
+  "description": "100 UI elements in 100 days",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidHaynesHasGitHub/100UI.git"
+  },
+  "keywords": [
+    "UI",
+    "100",
+    "challenge"
+  ],
+  "author": "David Haynes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidHaynesHasGitHub/100UI/issues"
+  },
+  "homepage": "https://github.com/DavidHaynesHasGitHub/100UI#readme",
+  "dependencies": {
+    "materialize-css": "^0.100.2"
+  }
+}
